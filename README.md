@@ -23,7 +23,7 @@ I specialize in turning complex data into actionable insights and building intel
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/hermona/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hermona/)
 - 📧 [Email](mailto:hermonaaddisu@gmail.com)
 - ✍️ [Personal Blog](https://medium.com/@hermonaaddisu)
 
