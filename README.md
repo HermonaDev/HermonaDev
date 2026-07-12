@@ -1,6 +1,5 @@
-# Hi there, I'm Hermona! 👋 (HermonaDev)
-**AI Engineer | Data Analyst | Python Specialist**
-![Hermona](Profile.jpg)
+# Hi there, I'm Hermona! 👋
+**AI Engineer | Data Engineer | Data Analyst**
 
 I specialize in turning complex data into actionable insights and building intelligent systems that scale. I bridge the gap between rigorous statistical analysis and cutting-edge machine learning engineering.
 
