@@ -17,8 +17,8 @@ I specialize in turning complex data into actionable insights and building intel
 ---
 
 ### 📊 GitHub Stats
-![Hermona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HermonaDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermonaDev&layout=compact&theme=tokyonight)
+![Hermona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hermona42&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermona42&layout=compact&theme=tokyonight)
 
 ---
 
