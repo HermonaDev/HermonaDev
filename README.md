@@ -57,12 +57,7 @@ identity:
 ```
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hermona42&show_icons=true&theme=dark_dimmed&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermona42&layout=compact&theme=dark_dimmed&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hermona42&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=Hermona42&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
 <br>
