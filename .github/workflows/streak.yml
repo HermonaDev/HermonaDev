@@ -20,8 +20,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           user: hermona42
-          card_width: '495'
-          type: 'svg'
+          theme: dark
+          background: 0D1117
+          ring: 00FF41
+          fire: 00FF41
+          currStreakLabel: 00FF41
+          hide_border: 'true'
 
       - name: Pull latest remote changes
         run: git pull origin main --rebase
@@ -29,5 +33,5 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update streak stats SVG"
+          commit_message: "Update streak stats SVG theme"
           file_pattern: "*.svg profile/*.svg"
