@@ -17,7 +17,7 @@ jobs:
       - name: Generate Streak Stats SVG
         uses: denvercoder1/github-readme-streak-stats@main
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STREAK_PAT }}
         with:
           user: hermona42
           background: '0D1117'
@@ -38,5 +38,5 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update streak stats SVG exact target design"
+          commit_message: "Update streak stats SVG with private repo access"
           file_pattern: "*.svg profile/*.svg"
