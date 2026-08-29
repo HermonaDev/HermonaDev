@@ -57,7 +57,7 @@ identity:
 ```
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Hermona42&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br>
