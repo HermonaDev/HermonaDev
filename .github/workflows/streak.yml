@@ -1,0 +1,28 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: denvercoder1/github-readme-streak-stats-action@v1
+        with:
+          user: hermona42
+          theme: dark
+          background: 0D1117
+          ring: 00FF41
+          fire: 00FF41
+          currStreakLabel: 00FF41
+          output: profile-streak-stats.svg
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-streak-stats.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
