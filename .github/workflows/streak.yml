@@ -21,15 +21,15 @@ jobs:
         with:
           user: hermona42
           background: '0D1117'
-          border: '00FF41'
-          stroke: '00FF41'
+          border: 'FFFFFF'
+          stroke: 'FFFFFF'
           ring: '00FF41'
           fire: '00FF41'
-          currStreakNum: '00FF41'
-          sideNums: '00FF41'
+          currStreakNum: 'FFFFFF'
+          sideNums: 'FFFFFF'
           currStreakLabel: '00FF41'
-          sideLabels: '00FF41'
-          dates: '00FF41'
+          sideLabels: 'FFFFFF'
+          dates: '8B949E'
           hide_border: 'true'
 
       - name: Pull latest remote changes
@@ -38,5 +38,5 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update streak stats SVG matrix green theme"
+          commit_message: "Update streak stats SVG exact target design"
           file_pattern: "*.svg profile/*.svg"
